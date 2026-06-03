@@ -26,5 +26,7 @@ Si deseas probar la aplicación en tu propio entorno, sigue estos pasos:
    pip install pandas scipy streamlit
 ```
 3. Ejecuta la aplicación desde la línea de comandos en la carpeta raíz del proyecto:
+```bash
 streamlit run app.py
-4. Tu navegador abrirá automáticamente la aplicación local.
+```
+5. Tu navegador abrirá automáticamente la aplicación local.
