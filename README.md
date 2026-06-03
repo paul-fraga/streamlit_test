@@ -21,8 +21,7 @@ Esta es una aplicación web interactiva desarrollada en Python. El proyecto emul
 Si deseas probar la aplicación en tu propio entorno, sigue estos pasos:
 
 1. Clona este repositorio en tu máquina local.
-2. Asegúrate de tener instaladas las dependencias listadas en el archivo `requirements.txt`.
-3. Ejecuta la aplicación desde la línea de comandos en la carpeta raíz del proyecto: streamlit run app.py
-4. streamlit run app.py
+2. Asegúrate de tener instaladas las dependencias listadas en el archivo `requirements.txt`:
 ```bash
    pip install pandas scipy streamlit
+3. streamlit run app.py
