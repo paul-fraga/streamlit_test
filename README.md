@@ -2,8 +2,9 @@
 
 This is an interactive web application developed in Python. The project simulates flipping a coin multiple times and calculates the mean value of the results. As the number of attempts increases, the app plots the progress in real time, demonstrating how the calculated mean approaches its expected value (0.5).
 
-> **🔴 [View the Live Web App on Render](https://streamlit-test-g140.onrender.com)**
-> **🌐 [View the Interactive Case Study on my Portfolio](PON_AQUI_TU_LINK_DE_LOVABLE)**
+**🔴 [View the Live Web App on Render](https://streamlit-test-g140.onrender.com)**
+<br>
+**🌐 [View the Interactive Case Study on my Portfolio](PON_AQUI_TU_LINK_DE_LOVABLE)**
 
 ### 🛠️ Technologies & Tools
 * **Language:** Python
@@ -46,8 +47,9 @@ If you want to test the application in your own environment, follow these steps:
 
 Esta es una aplicación web interactiva desarrollada en Python. El proyecto emula el lanzamiento de una moneda al azar múltiples veces y calcula el valor medio de los resultados. A medida que aumenta el número de intentos, la aplicación traza el progreso en tiempo real, demostrando cómo el valor medio calculado se acerca a su valor real (0.5).
 
-> **🔴 [Ver la Aplicación en Vivo en Render](https://streamlit-test-g140.onrender.com)**
-> **🌐 [Ver el Caso de Estudio Interactivo en mi Portafolio](PON_AQUI_TU_LINK_DE_LOVABLE)**
+**🔴 [Ver la Aplicación en Vivo en Render](https://streamlit-test-g140.onrender.com)**
+<br>
+**🌐 [Ver el Caso de Estudio Interactivo en mi Portafolio](PON_AQUI_TU_LINK_DE_LOVABLE)**
 
 ### 🛠️ Herramientas y Tecnologías
 * **Lenguaje:** Python
